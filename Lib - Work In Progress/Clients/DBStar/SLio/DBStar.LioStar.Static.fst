@@ -1,0 +1,1 @@
+../DBStar.LioStar.Static.fst
